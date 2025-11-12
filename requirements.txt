@@ -1,0 +1,4 @@
+pyrogram==2.0.106
+tgcrypto==1.2.5
+psutil==5.9.8
+pillow==10.3.0
